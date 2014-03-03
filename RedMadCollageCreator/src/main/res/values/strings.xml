@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Red Mad CC</string>
+    <string name="choose_user">Choose User</string>
+    <string name="user">User</string>
+    <string name="user_photo">User\'s photo</string>
+    <string name="action_search">Search</string>
+    <string name="err_network">Can\'t reach server. Check connection to Internet.</string>
+</resources>

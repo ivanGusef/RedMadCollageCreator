@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="client_id">4d03a38607c8439a8742f91fe79212db</string>
+    <string name="client_secret">1e524190db73448999acb565a2838b44</string>
+    <string name="redirect_url">http://redmadcollagecreator.com</string>
+</resources>
